@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil
 
 Meu nome é Arthur Luiz
 
@@ -12,4 +12,3 @@ arthuralmela2008@gmail.com
 
 @08._.arthuralm
 
-![descrição do GIF](link GIF do Tenor)
